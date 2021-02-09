@@ -29,12 +29,12 @@
     },
     {
       "deck_name": "Mage Mania",
-      "deck_info": "Updated to remove wisps, and added shifting scroll",
-      "published": 1612824672865,
+      "deck_info": "Removed lowly squire",
+      "published": 1612886287311,
       "playerClassId": 4,
       "dust_cost": 0,
       "userId": 3,
-      "deck_code": "AAEBAdnaAwLGE4y5Aw68CI0QthPDE4wUt2yNrALrugKEuwLiygKc0wK5/wLIhwPP0QMA",
+      "deck_code": "AAEBAdnaAwSsAY0QxhOMFA28CMMTt2yNrALrugKEuwLiygKc0wK5/wLIhwP/nQOMuQPP0QMA",
       "id": 7
     },
     {
@@ -46,6 +46,26 @@
       "userId": 3,
       "deck_code": "AAEBAevUAwjprAL5rALJrwLm0wLx6gLh+wLF/QKWigMLX/4B0wO3BrAQ6BXB8wLGhgP7rQP9rQPw1AMA",
       "id": 8
+    },
+    {
+      "deck_name": "Mage Mania - Custom Version",
+      "deck_info": "My take on the deck DannyTanner created.",
+      "published": 1612891416503,
+      "playerClassId": 4,
+      "dust_cost": 0,
+      "userId": 1,
+      "deck_code": "AAEBAdnaAwqsAeEHvAjcCo0QuRHGE4K0Arn/AsiHAwrDE7dsjawC67oChLsC4soCnNMC/50DjLkDz9EDAA==",
+      "id": 9
+    },
+    {
+      "deck_name": "Legendary Rogue",
+      "deck_info": "Big minion rogue deck looking to stall until late game then fill the board with HUGE minions. If you make it to turn 10 or so then you pretty much win!",
+      "published": 1612892886755,
+      "playerClassId": 7,
+      "dust_cost": 0,
+      "userId": 1,
+      "deck_code": "AAEBAaIHGrQB6wLtApsDxQSGCZsVya8CsbACgbEC9bsCkLwCyb8C1/oC8fsClooDzowDkpcDhp0D2KADkbED/bYDubgD87sDq9ID6t0DAvmsAtC5AwA=",
+      "id": 10
     }
   ],
   "playerclass": [
@@ -115,6 +135,21 @@
       "deckId": 8,
       "userId": 3,
       "id": 8
+    },
+    {
+      "deckId": 7,
+      "userId": 3,
+      "id": 9
+    },
+    {
+      "deckId": 9,
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "deckId": 10,
+      "userId": 1,
+      "id": 11
     }
   ],
   "rateddecks": [
@@ -153,6 +188,36 @@
       "userId": 3,
       "rating": 0,
       "id": 11
+    },
+    {
+      "deckId": 7,
+      "userId": 3,
+      "rating": 0,
+      "id": 12
+    },
+    {
+      "deckId": 7,
+      "userId": 3,
+      "rating": 0,
+      "id": 13
+    },
+    {
+      "deckId": 9,
+      "userId": 1,
+      "rating": 0,
+      "id": 14
+    },
+    {
+      "deckId": 7,
+      "userId": 1,
+      "rating": 1,
+      "id": 15
+    },
+    {
+      "deckId": 10,
+      "userId": 1,
+      "rating": 0,
+      "id": 16
     }
   ],
   "deckcart": [],
@@ -308,57 +373,57 @@
       "id": 180
     },
     {
-      "cardId": 1467,
+      "cardId": 5834,
       "deckId": 7,
       "id": 181
     },
     {
-      "cardId": 5,
+      "cardId": 5958,
       "deckId": 7,
       "id": 182
     },
     {
-      "cardId": 5,
+      "cardId": 5958,
       "deckId": 7,
       "id": 183
     },
     {
-      "cardId": 542,
+      "cardId": 5834,
       "deckId": 7,
       "id": 184
     },
     {
-      "cardId": 542,
+      "cardId": 7255,
       "deckId": 7,
       "id": 185
     },
     {
-      "cardId": 6681,
+      "cardId": 153,
       "deckId": 7,
       "id": 186
     },
     {
-      "cardId": 6681,
+      "cardId": 153,
       "deckId": 7,
       "id": 187
     },
     {
-      "cardId": 9163,
+      "cardId": 162,
       "deckId": 7,
       "id": 188
     },
     {
-      "cardId": 9163,
+      "cardId": 5107,
       "deckId": 7,
       "id": 189
     },
     {
-      "cardId": 1481,
+      "cardId": 7255,
       "deckId": 7,
       "id": 190
     },
     {
-      "cardId": 1481,
+      "cardId": 4937,
       "deckId": 7,
       "id": 191
     },
@@ -368,12 +433,12 @@
       "id": 192
     },
     {
-      "cardId": 1876,
+      "cardId": 1467,
       "deckId": 7,
       "id": 193
     },
     {
-      "cardId": 1467,
+      "cardId": 5107,
       "deckId": 7,
       "id": 194
     },
@@ -383,77 +448,77 @@
       "id": 195
     },
     {
-      "cardId": 2028,
+      "cardId": 1876,
       "deckId": 7,
       "id": 196
     },
     {
-      "cardId": 2028,
+      "cardId": 6681,
       "deckId": 7,
       "id": 197
     },
     {
-      "cardId": 4937,
+      "cardId": 9163,
       "deckId": 7,
       "id": 198
     },
     {
-      "cardId": 4937,
+      "cardId": 5,
       "deckId": 7,
       "id": 199
     },
     {
-      "cardId": 5107,
+      "cardId": 1467,
       "deckId": 7,
       "id": 200
     },
     {
-      "cardId": 5107,
+      "cardId": 9163,
       "deckId": 7,
       "id": 201
     },
     {
-      "cardId": 130,
+      "cardId": 542,
       "deckId": 7,
       "id": 202
     },
     {
-      "cardId": 130,
+      "cardId": 1481,
       "deckId": 7,
       "id": 203
     },
     {
-      "cardId": 7255,
+      "cardId": 542,
       "deckId": 7,
       "id": 204
     },
     {
-      "cardId": 7255,
+      "cardId": 1481,
       "deckId": 7,
       "id": 205
     },
     {
-      "cardId": 5834,
+      "cardId": 6681,
       "deckId": 7,
       "id": 206
     },
     {
-      "cardId": 5834,
+      "cardId": 1084,
       "deckId": 7,
       "id": 207
     },
     {
-      "cardId": 153,
+      "cardId": 1879,
       "deckId": 7,
       "id": 208
     },
     {
-      "cardId": 153,
+      "cardId": 2190,
       "deckId": 7,
       "id": 209
     },
     {
-      "cardId": 162,
+      "cardId": 2190,
       "deckId": 7,
       "id": 210
     },
@@ -606,6 +671,306 @@
       "cardId": 6123,
       "deckId": 8,
       "id": 240
+    },
+    {
+      "cardId": 5834,
+      "deckId": 9,
+      "id": 241
+    },
+    {
+      "cardId": 4937,
+      "deckId": 9,
+      "id": 242
+    },
+    {
+      "cardId": 153,
+      "deckId": 9,
+      "id": 243
+    },
+    {
+      "cardId": 1876,
+      "deckId": 9,
+      "id": 244
+    },
+    {
+      "cardId": 5958,
+      "deckId": 9,
+      "id": 245
+    },
+    {
+      "cardId": 1467,
+      "deckId": 9,
+      "id": 246
+    },
+    {
+      "cardId": 162,
+      "deckId": 9,
+      "id": 247
+    },
+    {
+      "cardId": 6681,
+      "deckId": 9,
+      "id": 248
+    },
+    {
+      "cardId": 9163,
+      "deckId": 9,
+      "id": 249
+    },
+    {
+      "cardId": 5107,
+      "deckId": 9,
+      "id": 250
+    },
+    {
+      "cardId": 5958,
+      "deckId": 9,
+      "id": 251
+    },
+    {
+      "cardId": 1084,
+      "deckId": 9,
+      "id": 252
+    },
+    {
+      "cardId": 5834,
+      "deckId": 9,
+      "id": 253
+    },
+    {
+      "cardId": 7255,
+      "deckId": 9,
+      "id": 254
+    },
+    {
+      "cardId": 5107,
+      "deckId": 9,
+      "id": 255
+    },
+    {
+      "cardId": 1467,
+      "deckId": 9,
+      "id": 256
+    },
+    {
+      "cardId": 1481,
+      "deckId": 9,
+      "id": 257
+    },
+    {
+      "cardId": 153,
+      "deckId": 9,
+      "id": 258
+    },
+    {
+      "cardId": 7255,
+      "deckId": 9,
+      "id": 259
+    },
+    {
+      "cardId": 542,
+      "deckId": 9,
+      "id": 260
+    },
+    {
+      "cardId": 1481,
+      "deckId": 9,
+      "id": 261
+    },
+    {
+      "cardId": 6681,
+      "deckId": 9,
+      "id": 262
+    },
+    {
+      "cardId": 1084,
+      "deckId": 9,
+      "id": 263
+    },
+    {
+      "cardId": 1879,
+      "deckId": 9,
+      "id": 264
+    },
+    {
+      "cardId": 2190,
+      "deckId": 9,
+      "id": 265
+    },
+    {
+      "cardId": 2190,
+      "deckId": 9,
+      "id": 266
+    },
+    {
+      "cardId": 3966,
+      "deckId": 9,
+      "id": 267
+    },
+    {
+      "cardId": 5470,
+      "deckId": 9,
+      "id": 268
+    },
+    {
+      "cardId": 4972,
+      "deckId": 9,
+      "id": 269
+    },
+    {
+      "cardId": 3674,
+      "deckId": 9,
+      "id": 270
+    },
+    {
+      "cardId": 1590,
+      "deckId": 10,
+      "id": 271
+    },
+    {
+      "cardId": 3695,
+      "deckId": 10,
+      "id": 272
+    },
+    {
+      "cardId": 487,
+      "deckId": 10,
+      "id": 273
+    },
+    {
+      "cardId": 1272,
+      "deckId": 10,
+      "id": 274
+    },
+    {
+      "cardId": 1926,
+      "deckId": 10,
+      "id": 275
+    },
+    {
+      "cardId": 1263,
+      "deckId": 10,
+      "id": 276
+    },
+    {
+      "cardId": 1272,
+      "deckId": 10,
+      "id": 277
+    },
+    {
+      "cardId": 1594,
+      "deckId": 10,
+      "id": 278
+    },
+    {
+      "cardId": 3694,
+      "deckId": 10,
+      "id": 279
+    },
+    {
+      "cardId": 1697,
+      "deckId": 10,
+      "id": 280
+    },
+    {
+      "cardId": 2131,
+      "deckId": 10,
+      "id": 281
+    },
+    {
+      "cardId": 7407,
+      "deckId": 10,
+      "id": 282
+    },
+    {
+      "cardId": 9122,
+      "deckId": 10,
+      "id": 283
+    },
+    {
+      "cardId": 42,
+      "deckId": 10,
+      "id": 284
+    },
+    {
+      "cardId": 3042,
+      "deckId": 10,
+      "id": 285
+    },
+    {
+      "cardId": 6838,
+      "deckId": 10,
+      "id": 286
+    },
+    {
+      "cardId": 6846,
+      "deckId": 10,
+      "id": 287
+    },
+    {
+      "cardId": 3903,
+      "deckId": 10,
+      "id": 288
+    },
+    {
+      "cardId": 3323,
+      "deckId": 10,
+      "id": 289
+    },
+    {
+      "cardId": 3179,
+      "deckId": 10,
+      "id": 290
+    },
+    {
+      "cardId": 2217,
+      "deckId": 10,
+      "id": 291
+    },
+    {
+      "cardId": 3904,
+      "deckId": 10,
+      "id": 292
+    },
+    {
+      "cardId": 3906,
+      "deckId": 10,
+      "id": 293
+    },
+    {
+      "cardId": 1149,
+      "deckId": 10,
+      "id": 294
+    },
+    {
+      "cardId": 519,
+      "deckId": 10,
+      "id": 295
+    },
+    {
+      "cardId": 9270,
+      "deckId": 10,
+      "id": 296
+    },
+    {
+      "cardId": 6713,
+      "deckId": 10,
+      "id": 297
+    },
+    {
+      "cardId": 6788,
+      "deckId": 10,
+      "id": 298
+    },
+    {
+      "cardId": 6713,
+      "deckId": 10,
+      "id": 299
+    },
+    {
+      "cardId": 9745,
+      "deckId": 10,
+      "id": 300
     }
   ],
   "cards": [
